@@ -1,0 +1,28 @@
+.card{
+    background-color:royalblue;
+ 
+    align-self: center;
+    margin-top: 20;
+    color: beige;
+    border-style: block;
+    border-width: 20px;
+    border-color: black
+    
+}
+.pics{
+    float: inline-start;
+    border: block;
+    border-radius: 100px;
+}
+.card-body{
+    background-color: lightskyblue;
+    color: royalblue;
+}
+.card-title{
+    text-decoration-line: underline
+}
+.foot{
+    text-decoration-line: underline
+}
+.card-text{
+    text-align: center
